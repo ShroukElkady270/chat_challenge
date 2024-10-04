@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659652113945",
+    "project_id": "educatlychallenge",
+    "storage_bucket": "educatlychallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659652113945:android:7d7396befeabde6f921c88",
+        "android_client_info": {
+          "package_name": "com.example.educatly_challenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChtyvl6k-DN3Cew3602nbnfvBFOpjH0jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
